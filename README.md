@@ -5,11 +5,6 @@ This library provides tools for analyzing and detecting phase transitions in NP-
 * Cluster phase transition
 * Radian phase transition
 
-## Installation
-```
-pip install tsp-phase-transition
-```
-
 ## Quick Start
 1. Cluster Phase Transition Analysis
 ```
